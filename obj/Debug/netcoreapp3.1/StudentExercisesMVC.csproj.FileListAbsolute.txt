@@ -123,3 +123,9 @@ C:\Users\gilde\workspace\csharp\StudentExercisesMVC\obj\Debug\netcoreapp3.1\Stud
 C:\Users\gilde\workspace\csharp\StudentExercisesMVC\obj\Debug\netcoreapp3.1\Razor\Views\Cohort\Create.cshtml.g.cs
 C:\Users\gilde\workspace\csharp\StudentExercisesMVC\obj\Debug\netcoreapp3.1\Razor\Views\Cohort\Details.cshtml.g.cs
 C:\Users\gilde\workspace\csharp\StudentExercisesMVC\obj\Debug\netcoreapp3.1\Razor\Views\Cohort\Index.cshtml.g.cs
+C:\Users\gilde\workspace\csharp\StudentExercisesMVC\obj\Debug\netcoreapp3.1\Razor\Views\Students\Edit.cshtml.g.cs
+C:\Users\gilde\workspace\csharp\StudentExercisesMVC\obj\Debug\netcoreapp3.1\Razor\Views\Students\Delete.cshtml.g.cs
+C:\Users\gilde\workspace\csharp\StudentExercisesMVC\obj\Debug\netcoreapp3.1\Razor\Views\Instructor\Delete.cshtml.g.cs
+C:\Users\gilde\workspace\csharp\StudentExercisesMVC\obj\Debug\netcoreapp3.1\Razor\Views\Instructor\Edit.cshtml.g.cs
+C:\Users\gilde\workspace\csharp\StudentExercisesMVC\obj\Debug\netcoreapp3.1\Razor\Views\Cohort\Delete.cshtml.g.cs
+C:\Users\gilde\workspace\csharp\StudentExercisesMVC\obj\Debug\netcoreapp3.1\Razor\Views\Cohort\Edit.cshtml.g.cs
